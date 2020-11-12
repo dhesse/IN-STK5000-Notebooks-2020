@@ -1,1 +1,6 @@
 notebooks/.ipynb_checkpoints
+notebooks/donthackme.py
+notebooks/__pycache__/
+notebooks/mlruns/
+notebooks/models.db
+notebooks/tinydb.json
